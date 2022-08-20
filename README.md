@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is a test of my git skills thus far by using the command line tools that I have learned up until this point in the Odin Project.
